@@ -1,7 +1,7 @@
 {
-  "versionCode": 1020,
-  "versionName": "0.1.20",
+  "versionCode": 1035,
+  "versionName": "0.1.35",
   "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/REACTR.apk",
-  "sha256": "4a12bdc3df100fd804a4d2e32c9d82060a274c23f5dd78a750589d908e66027f",
+  "sha256": "20935369f1d67fe5ed7abed8b806fc0ffaaa79884138abddf5aa6754778fd30b",
   "notes": "Latest REACTR internal alpha update."
 }

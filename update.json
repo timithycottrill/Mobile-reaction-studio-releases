@@ -1,7 +1,7 @@
 {
-  "versionCode": 0,
-  "versionName": "update-channel-ready",
-  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/Mobile-Reaction-Studio.apk",
-  "sha256": "not-published-yet",
-  "notes": "Update channel initialized. Signed APK publishing is not active yet."
+  "versionCode": 1005,
+  "versionName": "0.1.5",
+  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/REACTR.apk",
+  "sha256": "c93c5e33651275c0d6485677fa2fd62e0c4c6a12e59e76357d3abf15e7437437",
+  "notes": "Latest REACTR internal alpha update."
 }

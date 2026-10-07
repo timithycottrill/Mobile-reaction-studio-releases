@@ -2,7 +2,7 @@
   "versionCode": 230017,
   "versionName": "2.3.17",
   "sandboxSha": "f9700fefd2098a51274993318f7639c44ec19398",
-  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/TapTallied.apk",
+  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/releases/f9700fefd2098a51274993318f7639c44ec19398/TapTallied.apk",
   "sha256": "090d96656b53aed5d2be2ef4799cec3179a659302b7d2be3688c30b2d94f4135",
   "notes": "Saved Locations management: touch and hold a saved pickup or drop-off to select it, then Edit or Delete. Deleting a saved location keeps completed loads and tally-book history."
 }

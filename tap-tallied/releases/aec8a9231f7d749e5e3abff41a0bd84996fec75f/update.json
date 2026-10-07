@@ -2,7 +2,7 @@
   "versionCode": 230018,
   "versionName": "2.3.18",
   "sandboxSha": "aec8a9231f7d749e5e3abff41a0bd84996fec75f",
-  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/TapTallied.apk",
+  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/releases/aec8a9231f7d749e5e3abff41a0bd84996fec75f/TapTallied.apk",
   "sha256": "e24f3582db9e589b558dddca5dc432a1de93af253830fed6b03faeb722b76991",
   "notes": "Load recovery fix: ignore empty false-positive drafts, add safe Refresh Status, allow discarding stale drafts, and allow explicitly canceling only the detected in-progress load while preserving completed loads and tally-book history."
 }

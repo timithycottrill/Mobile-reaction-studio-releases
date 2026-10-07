@@ -1,8 +1,8 @@
 {
-  "versionCode": 230014,
-  "versionName": "2.3.14",
+  "versionCode": 230015,
+  "versionName": "2.3.15",
   "sandboxSha": "3b7fa6e526730b40c934262be825805c4f2324de",
   "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/TapTallied.apk",
-  "sha256": "a5cc65679ce747e61d16511448064d5cea3494c4841e4552d3074e2438079723",
-  "notes": "New workflow for central tank batteries"
+  "sha256": "4518026c501b850dafbeec3045e5961f821ff0d2be3d77b64e5a54a38c99ddd2",
+  "notes": "Corrected production publish: carry the complete tested Sandbox CTB workflow, dedicated step pages, average temperature, equipment verification with trailer type/unit, and true Resume Load behavior into the red production app."
 }

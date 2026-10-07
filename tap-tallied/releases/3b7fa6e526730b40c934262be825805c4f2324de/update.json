@@ -2,7 +2,7 @@
   "versionCode": 230014,
   "versionName": "2.3.14",
   "sandboxSha": "3b7fa6e526730b40c934262be825805c4f2324de",
-  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/TapTallied.apk",
+  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/releases/3b7fa6e526730b40c934262be825805c4f2324de/TapTallied.apk",
   "sha256": "a5cc65679ce747e61d16511448064d5cea3494c4841e4552d3074e2438079723",
   "notes": "New workflow for central tank batteries"
 }

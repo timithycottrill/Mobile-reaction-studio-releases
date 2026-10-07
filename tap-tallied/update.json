@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2.0",
-  "sandboxSha": "",
-  "apkUrl": "",
-  "sha256": "",
-  "notes": "Tap Tallied production baseline. Sandbox-published updates will replace this manifest."
+  "versionCode": 230008,
+  "versionName": "2.3.8",
+  "sandboxSha": "de9fadf113d4a4a07004431b5ebf5e4409a968b6",
+  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/TapTallied.apk",
+  "sha256": "389290404185058640cd82d67ea605b4324d1bbaacaaef09ae23a6a9ffa126f5",
+  "notes": "Test 3"
 }

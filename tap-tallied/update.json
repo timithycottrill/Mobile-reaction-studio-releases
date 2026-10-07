@@ -1,8 +1,8 @@
 {
-  "versionCode": 230011,
-  "versionName": "2.3.11",
+  "versionCode": 230013,
+  "versionName": "2.3.13",
   "sandboxSha": "7437769210a49f2189ff3f53236f7ae36458dfc5",
   "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/TapTallied.apk",
-  "sha256": "65bd059605bb63a8472887a17efe69d260b028dbdc588ba2621b14f18002721a",
-  "notes": "CTB guided workflow, injection/offload workflow, editable tally refinements, saved location support, and red Tap Tallied dashboard Check for Update button."
+  "sha256": "93206756f10ec132ca33fb19409cbcf66e38009763286508e72bb05eb4c5d7e3",
+  "notes": "Superseding production release: verified CTB guided workflow, injection/offload workflow, editable tally refinements, saved locations, and red dashboard Check for Update button."
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 230015,
-  "versionName": "2.3.15",
+  "versionCode": 230016,
+  "versionName": "2.3.16",
   "sandboxSha": "3b7fa6e526730b40c934262be825805c4f2324de",
   "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/releases/3b7fa6e526730b40c934262be825805c4f2324de/TapTallied.apk",
-  "sha256": "4518026c501b850dafbeec3045e5961f821ff0d2be3d77b64e5a54a38c99ddd2",
-  "notes": "Corrected production publish: carry the complete tested Sandbox CTB workflow, dedicated step pages, average temperature, equipment verification with trailer type/unit, and true Resume Load behavior into the red production app."
+  "sha256": "2d85ebe4317b73d82a23c668679d37fd970e2d01b4a8a0c081060c955f6aba54",
+  "notes": "Production updater hotfix: compact Check for Update tile, visible checking state, and functional in-scope update handler. Includes the complete tested Sandbox workflow."
 }

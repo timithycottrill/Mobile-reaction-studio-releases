@@ -1,8 +1,8 @@
 {
-  "versionCode": 230019,
-  "versionName": "2.3.19",
+  "versionCode": 230020,
+  "versionName": "2.3.20",
   "sandboxSha": "d5f3348151629a7e71a18adaf9853c26f3ba48aa",
   "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/TapTallied.apk",
-  "sha256": "91216b87138009a9e396cc29ae019473fa8881e51aa2a820a9c02e3838786f4b",
-  "notes": "Approved from Tap Tallied Sandbox"
+  "sha256": "eda0841a3b73979ecba8ffa7f9c6ffa8f6df13dae5fb7159cfbbd867d38e9718",
+  "notes": "Lease/Compressor v18 + v19 workflow polish: destination company grouping, injection-point filtering, readable action buttons, selectable gauge measurement types, target BBL and estimated bottom gauge, dashboard shortcut, Step 1 ticket number carry-forward, completed-load photo review, and production version metadata fix."
 }

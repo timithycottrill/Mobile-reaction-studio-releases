@@ -2,7 +2,7 @@
   "versionCode": 230032,
   "versionName": "2.3.32",
   "sandboxSha": "ad96aa38e9690a3773f2d1eeda2e45766741a223",
-  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/TapTallied.apk",
+  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/releases/ad96aa38e9690a3773f2d1eeda2e45766741a223/TapTallied.apk",
   "sha256": "0550f82d11433211fc343da156657b90ab1416f879c796a6da08b303bce211ec",
   "notes": "RED categorized tally book v36. User requested My Information, Lease Information, and Tank Information in paired label-above-value ruled columns; split-load status and centered gravity; pickup Seal Off/Seal On and Meter Start/Meter End in side-by-side pairs; a SEPARATE Offload Meter Start/End pair never substituted from pickup readings; ticket and long values stay legible; GPS navigation buttons are BELOW the book paper. Preserves two-way page-turn, archived records, GPS actions, and red app identity."
 }

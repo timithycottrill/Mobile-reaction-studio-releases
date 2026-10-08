@@ -1,8 +1,8 @@
 {
-  "versionCode": 230022,
-  "versionName": "2.3.22",
+  "versionCode": 230024,
+  "versionName": "2.3.24",
   "sandboxSha": "4b8edf6aed67c8b8e67eece1d2da0f20038d0ee0",
   "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/releases/4b8edf6aed67c8b8e67eece1d2da0f20038d0ee0/TapTallied.apk",
-  "sha256": "2d71329f8f6b9327c0ba41fdce6d7410cafc9a001f410305b818d94dbd0a1d20",
-  "notes": "Approved from Tap Tallied Sandbox"
+  "sha256": "4a6ac4ea3b2e53fed7712ac8af50e031aacc60699fea5555794b3d1294d4e7a9",
+  "notes": "Production parity release: adds missing v26 load mileage and pickup/offload odometers; load clock-in/out, service jobs, time logging; carrier/driver credentials and LACT/offload mappings; v27 no-company-code simplification and fixed clock control; v28 compact header Dashboard/Tally/Clock controls with safe save-before-navigation. Red production identity and data preserved."
 }

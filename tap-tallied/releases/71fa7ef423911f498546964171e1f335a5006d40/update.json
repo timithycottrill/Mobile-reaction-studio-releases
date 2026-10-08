@@ -2,7 +2,7 @@
   "versionCode": 230031,
   "versionName": "2.3.31",
   "sandboxSha": "71fa7ef423911f498546964171e1f335a5006d40",
-  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/TapTallied.apk",
+  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/releases/71fa7ef423911f498546964171e1f335a5006d40/TapTallied.apk",
   "sha256": "0aa6363b1beca1d4e0f9b2657716bd2f023ce90a703f7bf811e59b10c99ad400",
   "notes": "v34 RED TALLY SHEET READABILITY FIX, based on tested Yellow Sandbox v2.2.0-sandbox.34: keep ticket, API gravity, seal off/on and meter start/end values on one uninterrupted ruled line; narrow-screen paired fields become separate full-width rows; preserve line alignment, handwriting colors, single-page book appearance, 2-way page-turn gestures, and all saved production data. Visual layout verified at 360, 412 and 700 CSS px."
 }

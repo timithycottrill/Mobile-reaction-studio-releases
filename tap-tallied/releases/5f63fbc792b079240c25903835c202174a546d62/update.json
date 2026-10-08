@@ -2,7 +2,7 @@
   "versionCode": 230026,
   "versionName": "2.3.26",
   "sandboxSha": "5f63fbc792b079240c25903835c202174a546d62",
-  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/TapTallied.apk",
+  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/releases/5f63fbc792b079240c25903835c202174a546d62/TapTallied.apk",
   "sha256": "6abb6e8f315a1c7e98d7dc341fde7162ac154cb2316516e5f1f4641f160f306d",
   "notes": "v29 notebook paper-curl: realistic two-way page turns for Tally Book day/week/month/year and individual handwritten crude load entries; swipe and arrow navigation, paper-edge lighting and shadow, preserves all saved tally records, reduced-motion fallback. Includes previous v26-v28 functionality and red production identity."
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 230029,
-  "versionName": "2.3.29",
+  "versionCode": 230030,
+  "versionName": "2.3.30",
   "sandboxSha": "7e6dfe7edeb50e1b7bfbe3c19cdd4c429300bc71",
   "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/TapTallied.apk",
-  "sha256": "24d52cf36736d347afc4986b61c493add8eeabe0aba1251ffa1d7d514bc807f7",
-  "notes": "Approved from Tap Tallied Sandbox"
+  "sha256": "cfea0a94e99f23dbfcb2f70aff635b930c7261965fc18662502ef4d68d460de5",
+  "notes": "CORRECTED RED RELEASE: source exactly matches tested Yellow Sandbox v2.2.0-sandbox.33. Includes v31 realistic bound-book spine, one-page ivory ruled tally, v32 paper-grain texture/underside and cinematic two-way page curls with deferred record change, v33 finger-drag page navigation, gesture reversal, and StPageFlip renderer cleanup. Preserves red production package, signer, data storage, and Profile-only app updates."
 }

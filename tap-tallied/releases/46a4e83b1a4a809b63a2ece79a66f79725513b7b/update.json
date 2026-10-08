@@ -2,7 +2,7 @@
   "versionCode": 230027,
   "versionName": "2.3.27",
   "sandboxSha": "46a4e83b1a4a809b63a2ece79a66f79725513b7b",
-  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/TapTallied.apk",
+  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/releases/46a4e83b1a4a809b63a2ece79a66f79725513b7b/TapTallied.apk",
   "sha256": "879f1ac94b01c065363694bed72d0a2440c34ce2d3321ac49348925e9e710b3f",
   "notes": "Physical notebook page curl update. Replaces rigid v29 rotating-sheet transition with offline StPageFlip deformable paper curl and moving shadow, preserving handwritten tally records, period navigation, previous/next crude tally pages, production update tile inside Profile and red branding. Reference: user's After Effects cylindrical roll demonstration."
 }

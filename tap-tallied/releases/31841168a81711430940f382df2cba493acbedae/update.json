@@ -1,0 +1,8 @@
+{
+  "versionCode": 230037,
+  "versionName": "2.3.37",
+  "sandboxSha": "31841168a81711430940f382df2cba493acbedae",
+  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/releases/31841168a81711430940f382df2cba493acbedae/TapTallied.apk",
+  "sha256": "a0b78e689feb0fa61236beddb4bbd7b90b14d9ee9e33c8ef9e62eefade1402ca",
+  "notes": "Red production repair: add photos directly to completed or previously saved Tally Book entries from the review camera or while editing. Existing tank gauges, measurements, offload meters, ticket data, and revision history remain unchanged. Persistent single-row header, autosave, exact-step resume and page-turn animation preserved."
+}

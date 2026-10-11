@@ -1,0 +1,8 @@
+{
+  "versionCode": 230040,
+  "versionName": "2.3.40",
+  "sandboxSha": "f2c7a570d2ead980e1ffbc06b45dac8c2ab259ae",
+  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/releases/f2c7a570d2ead980e1ffbc06b45dac8c2ab259ae/TapTallied.apk",
+  "sha256": "33dc1a6702ec5656168f9894810bd44f3ced12d364705ddbc486e4876279531e",
+  "notes": "Fix Saved Locations duplicate typing fragments: preserve live load autosave but only upsert reusable pickup profile when Start Route advances past Step 1. Add opt-in review of unpinned, unnumbered, unreferenced prefix duplicates; no automatic deletion, selected deletion with confirmation, undo backup, preserve GPS pins, lease numbers, distinct locations, history, BBL math and Tally Book page-turn. Yellow v47 signed Android APK and all browser tests passed."
+}

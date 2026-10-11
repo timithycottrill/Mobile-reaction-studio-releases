@@ -1,8 +1,8 @@
 {
-  "versionCode": 230039,
-  "versionName": "2.3.39",
-  "sandboxSha": "233daf489807cbcae71433993b1129d4fe2671e0",
+  "versionCode": 230040,
+  "versionName": "2.3.40",
+  "sandboxSha": "f2c7a570d2ead980e1ffbc06b45dac8c2ab259ae",
   "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/TapTallied.apk",
-  "sha256": "c1ba963d9b9b8be11d07b017b949cd44be66446d36bf2cfe1f9a673b7300aec7",
-  "notes": "Red production fix for real-world Step 4 / Tally screenshot: Sample % exactly maps into BS&W (e.g. .05), including immediate mid-load tally autosave and fallback display on historical entries with samplePercent. Step 1 Navigate opens only saved pickup GPS, Start Route advances to en-route without Maps (with existing carrier/operator/destination requirements intact). Swipe left/right among already visited Lease/Compressor and CTB workflow steps; no Arrived, Accept/Reject or Finish bypass. No barrel-math or Tally Book page-turn changes. Yellow v46 signed APK and browser regression tests pass."
+  "sha256": "33dc1a6702ec5656168f9894810bd44f3ced12d364705ddbc486e4876279531e",
+  "notes": "Fix Saved Locations duplicate typing fragments: preserve live load autosave but only upsert reusable pickup profile when Start Route advances past Step 1. Add opt-in review of unpinned, unnumbered, unreferenced prefix duplicates; no automatic deletion, selected deletion with confirmation, undo backup, preserve GPS pins, lease numbers, distinct locations, history, BBL math and Tally Book page-turn. Yellow v47 signed Android APK and all browser tests passed."
 }

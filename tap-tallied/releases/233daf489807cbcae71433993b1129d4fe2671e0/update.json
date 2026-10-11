@@ -1,0 +1,8 @@
+{
+  "versionCode": 230039,
+  "versionName": "2.3.39",
+  "sandboxSha": "233daf489807cbcae71433993b1129d4fe2671e0",
+  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/releases/233daf489807cbcae71433993b1129d4fe2671e0/TapTallied.apk",
+  "sha256": "c1ba963d9b9b8be11d07b017b949cd44be66446d36bf2cfe1f9a673b7300aec7",
+  "notes": "Red production fix for real-world Step 4 / Tally screenshot: Sample % exactly maps into BS&W (e.g. .05), including immediate mid-load tally autosave and fallback display on historical entries with samplePercent. Step 1 Navigate opens only saved pickup GPS, Start Route advances to en-route without Maps (with existing carrier/operator/destination requirements intact). Swipe left/right among already visited Lease/Compressor and CTB workflow steps; no Arrived, Accept/Reject or Finish bypass. No barrel-math or Tally Book page-turn changes. Yellow v46 signed APK and browser regression tests pass."
+}

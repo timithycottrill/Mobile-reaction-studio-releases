@@ -1,8 +1,8 @@
 {
-  "versionCode": 230038,
-  "versionName": "2.3.38",
-  "sandboxSha": "cae0b3eb6804ee9b9f7d8e0d9bd424f5d599da0f",
+  "versionCode": 230039,
+  "versionName": "2.3.39",
+  "sandboxSha": "233daf489807cbcae71433993b1129d4fe2671e0",
   "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/TapTallied.apk",
-  "sha256": "e61db5a4c3326e88cc2513afceea85f0bf1eb9ac7399894b5643897eb68e3e03",
-  "notes": "RED In Production option: checkbox under Top Gauge for lease/compressor and CTB and standard tank pickups; single load flag even for split loads, location-specific remembered defaults, autosave, only show IN PRODUCTION inside handwritten Tally Book, historical edits don't alter location default. Unchanged barrel calculations and page-turn animation. Complete Yellow v45 browser tests passed."
+  "sha256": "c1ba963d9b9b8be11d07b017b949cd44be66446d36bf2cfe1f9a673b7300aec7",
+  "notes": "Red production fix for real-world Step 4 / Tally screenshot: Sample % exactly maps into BS&W (e.g. .05), including immediate mid-load tally autosave and fallback display on historical entries with samplePercent. Step 1 Navigate opens only saved pickup GPS, Start Route advances to en-route without Maps (with existing carrier/operator/destination requirements intact). Swipe left/right among already visited Lease/Compressor and CTB workflow steps; no Arrived, Accept/Reject or Finish bypass. No barrel-math or Tally Book page-turn changes. Yellow v46 signed APK and browser regression tests pass."
 }

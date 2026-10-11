@@ -1,0 +1,8 @@
+{
+  "versionCode": 230036,
+  "versionName": "2.3.36",
+  "sandboxSha": "e48da1f9b88359deb646eab3124c73dfffd544ac",
+  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/releases/e48da1f9b88359deb646eab3124c73dfffd544ac/TapTallied.apk",
+  "sha256": "2198a4df769864507a77dc96c23d100d6c0e47c78a554fcb8ff5103489913df3",
+  "notes": "Red production parity from successfully tested Yellow v43: persistent single-row Option B navigation header, Dashboard/Tally/Clock, one camera with load photos, save-before-navigation, exact-step Resume Load, preserved tank gauges and tally fields, updated lease/offload workflow. Page-turn animation unchanged. Red app identity and existing data preserved."
+}

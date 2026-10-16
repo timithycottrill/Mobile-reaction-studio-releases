@@ -1,0 +1,37 @@
+name: Publish Tap Tallied RED installer
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/publish-tap-tallied-red-installer.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  installer:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout public installer
+        uses: actions/checkout@v4
+      - name: Verify signed RED 2.3.40 APK
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo "33dc1a6702ec5656168f9894810bd44f3ced12d364705ddbc486e4876279531e  tap-tallied/TapTallied.apk" | sha256sum -c -
+          file tap-tallied/TapTallied.apk
+      - name: Publish alternate public APK download
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp tap-tallied/TapTallied.apk TapTallied-RED-v2.3.40.apk
+          if gh release view "tap-tallied-red-v2.3.40" --repo "${{ github.repository }}" >/dev/null 2>&1; then
+            gh release upload "tap-tallied-red-v2.3.40" "TapTallied-RED-v2.3.40.apk" --clobber --repo "${{ github.repository }}"
+          else
+            gh release create "tap-tallied-red-v2.3.40" "TapTallied-RED-v2.3.40.apk" \
+              --repo "${{ github.repository }}" \
+              --title "Tap Tallied RED v2.3.40" \
+              --notes "Signed Android APK. Fixes duplicate pickup locations from partial typing while preserving in-progress tally autosave and protecting historical loads. Install over existing RED; do not uninstall or clear data."
+          fi
+          gh release view "tap-tallied-red-v2.3.40" --repo "${{ github.repository }}" --json assets --jq '.assets[].name'

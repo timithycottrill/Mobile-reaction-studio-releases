@@ -1,8 +1,8 @@
 {
-  "versionCode": 230042,
-  "versionName": "2.3.42",
+  "versionCode": 230043,
+  "versionName": "2.3.43",
   "sandboxSha": "d2c02eaa52098d6795f801003a32660354d66fc0",
   "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/TapTallied.apk",
-  "sha256": "6e1622929a445afefbe025d684313f0361df3c8463596935ee8506caaaba7dd1",
+  "sha256": "6b5d87dcf01d6f3a27b024e5a8f9a0725c47c14b2ebbe9756253e15e942825c2",
   "notes": "Approved from Tap Tallied Sandbox"
 }

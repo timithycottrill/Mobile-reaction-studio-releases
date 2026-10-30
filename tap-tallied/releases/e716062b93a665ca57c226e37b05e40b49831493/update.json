@@ -1,0 +1,8 @@
+{
+  "versionCode": 230044,
+  "versionName": "2.3.44",
+  "sandboxSha": "e716062b93a665ca57c226e37b05e40b49831493",
+  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/releases/e716062b93a665ca57c226e37b05e40b49831493/TapTallied.apk",
+  "sha256": "1641761f9ab6b307941f249e89020e5ce75ba2dccbcfc9f61940e768618fe36d",
+  "notes": "Fix recorded BBL disappearing when reopening loads. Show tank dimensions in feet and inches, default new field tanks to 15 ft 6 in diameter, and remember sizes per location and tank number. Prevent typing fragments from creating saved locations in guided and CTB flows. Existing historical measurements, GPS pins, and page-turn behavior are preserved."
+}

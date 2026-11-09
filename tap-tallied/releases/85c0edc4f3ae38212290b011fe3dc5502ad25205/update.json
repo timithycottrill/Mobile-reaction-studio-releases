@@ -1,0 +1,8 @@
+{
+  "versionCode": 230046,
+  "versionName": "2.3.46",
+  "sandboxSha": "85c0edc4f3ae38212290b011fe3dc5502ad25205",
+  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/releases/85c0edc4f3ae38212290b011fe3dc5502ad25205/TapTallied.apk",
+  "sha256": "9c7511b714ae6499edefbb37474ab3788d49256474cf828f264c2ff09bfde584",
+  "notes": "Inline ghost-text predictions replace dropdowns. Saved locations now require a GPS pin. Remove unpinned profiles and exact duplicates with internal recovery copies, while preserving distinct GPS pins, tank memory and all load history. Typing and draft saves no longer create saved locations."
+}

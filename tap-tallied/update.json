@@ -1,8 +1,8 @@
 {
-  "versionCode": 230046,
-  "versionName": "2.3.46",
-  "sandboxSha": "85c0edc4f3ae38212290b011fe3dc5502ad25205",
+  "versionCode": 230047,
+  "versionName": "2.3.47",
+  "sandboxSha": "2abea24fe1ad8727ddf765eee2a0d69c4e4bffb5",
   "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/TapTallied.apk",
-  "sha256": "9c7511b714ae6499edefbb37474ab3788d49256474cf828f264c2ff09bfde584",
-  "notes": "Inline ghost-text predictions replace dropdowns. Saved locations now require a GPS pin. Remove unpinned profiles and exact duplicates with internal recovery copies, while preserving distinct GPS pins, tank memory and all load history. Typing and draft saves no longer create saved locations."
+  "sha256": "9d9b8a9eb0a0a6bb7073a5c470ca18e4a53515a06cb3decbf6b77f3ec85f624d",
+  "notes": "One saved unload point each for Omega and Union City, keeping the most recently saved valid GPS pin with recovery copies. Profile Settings now let you stay signed in, skip equipment confirmation, and choose list or step-by-step load entry. Existing tally history, BBL values, tank memory and inline ghost text are preserved."
 }

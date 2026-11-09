@@ -1,0 +1,8 @@
+{
+  "versionCode": 230047,
+  "versionName": "2.3.47",
+  "sandboxSha": "2abea24fe1ad8727ddf765eee2a0d69c4e4bffb5",
+  "apkUrl": "https://raw.githubusercontent.com/timithycottrill/Mobile-reaction-studio-releases/main/tap-tallied/releases/2abea24fe1ad8727ddf765eee2a0d69c4e4bffb5/TapTallied.apk",
+  "sha256": "9d9b8a9eb0a0a6bb7073a5c470ca18e4a53515a06cb3decbf6b77f3ec85f624d",
+  "notes": "One saved unload point each for Omega and Union City, keeping the most recently saved valid GPS pin with recovery copies. Profile Settings now let you stay signed in, skip equipment confirmation, and choose list or step-by-step load entry. Existing tally history, BBL values, tank memory and inline ghost text are preserved."
+}
